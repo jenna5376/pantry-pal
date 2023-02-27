@@ -1,6 +1,5 @@
 import Recipes from "../components/Recipes";
 import RecipePreview from "../components/RecipePreview";
-
 import React from 'react'
 
 function Home() {
